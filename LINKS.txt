@@ -1,5 +1,5 @@
 testing 101
-- alcarte
+- alacarte
 - xampp
 - ngrok
 - composer
