@@ -8,7 +8,11 @@ testing 101
 - usertheme
 - RESPIN
 - Miniconda (envs for each python project)
-- code
+- vscode
+- atom
+- gitkraken
+- git-all
+- mainmenu (pak)
 ---------------------------------------------------
 awk '/^Exec=/ {sub("^Exec=", ""); gsub(" ?%[cDdFfikmNnUuv]", ""); exit system($0)}' ~/Desktop/Apps/applibs/Major_Notes.desktop
 ---------------------------------------------------
