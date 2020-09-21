@@ -4,7 +4,7 @@ VERSION="v2.7.4"
 #ADVISORY="linpeas should be used for authorized penetration testing and/or educational purposes only. Any misuse of this software will not be the responsibility of the author or of any other collaborator. Use it at your own networks and/or with the network owner's permission."
 
 
-###########################################
+#######################################https://github.com/MajorOS-Geeks/scripts/blob/master/prev_esc####
 #-------) Checks pre-everything (---------#
 ###########################################
 if [ "$(/usr/bin/id -u)" -eq "0" ]; then
